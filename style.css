@@ -1,0 +1,38 @@
+main {
+  background-color: rgb(57, 91, 121);
+}
+
+header {
+  background-color: rgb(57, 91, 121);
+  justify-content: end;
+  background-color: rgb(215, 241, 207);
+  font-size: 12px;
+  color: aqua;
+}
+
+#cabecera {
+  color: blue;
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+footer {
+  font-size: 100%;
+  margin-bottom: 8px;
+}
+
+.tercer--juego {
+  width: 4rem;
+  background-color: antiquewhite;
+}
+
+#primjuego {
+  width: 59px;
+  height: 48px;
+  margin-left: 18%;
+}
+
+* {
+  margin: 1rem;
+}
